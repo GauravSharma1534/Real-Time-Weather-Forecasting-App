@@ -24,8 +24,7 @@ This project was developed as part of the B.E. Data Science curriculum at Chandi
 
 ### 📂 GitHub Repository
 
-👉 https://github.com/GauravSharma1534/Weather-Forecasting-App
-
+👉 https://github.com/GauravSharma1534/Real-Time-Weather-Forecasting-App
 ---
 
 #  Project Objectives
