@@ -22,7 +22,7 @@ This project was developed as part of the B.E. Data Science curriculum at Chandi
 
 👉 https://23bda70050-gaurav.netlify.app/
 
-### 📂 GitHub Repository
+###  GitHub Repository
 
 👉 https://github.com/GauravSharma1534/Real-Time-Weather-Forecasting-App
 ---
@@ -119,7 +119,7 @@ Ensuring:
 
 ---
 
-# 🏗️ System Architecture
+#  System Architecture
 
 ```text
 User Input (City Name)
@@ -185,7 +185,7 @@ Data can be saved locally.
 
 ---
 
-# 📚 Python Concepts Implemented
+#  Python Concepts Implemented
 
 This project demonstrates:
 
@@ -293,7 +293,7 @@ python weather_app.py
 
 ---
 
-# 📊 Sample Output
+#  Sample Output
 
 ```text
 =====================================
@@ -328,7 +328,7 @@ Sunset         : 07:16 PM
 
 ---
 
-# 📈 Real-World Applications
+#  Real-World Applications
 
 ### Agriculture
 
@@ -411,7 +411,7 @@ During this project, I learned:
 
 ---
 
-# 📊 Performance Highlights
+#  Performance Highlights
 
 ✅ Real-Time Weather Retrieval
 
